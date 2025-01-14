@@ -13,7 +13,7 @@ const NotesSchema = new Schema({
           required: true
          
     }
-           tag: {
+  tag: {
         type: String,
           default: "General"
          
